@@ -7,3 +7,6 @@ def test_two():
 
 def test_make_or_break():
     assert 4 == 4
+
+def test_one():
+    assert 4 == 4
